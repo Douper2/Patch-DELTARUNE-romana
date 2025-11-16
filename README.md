@@ -3,7 +3,7 @@ Aplicație care modifică fișierele jocului DELTARUNE pentru a putea instala ș
 
 
 ## Ce înseamnă fiecare variabilă
-`foldel` - **fol**der **del**tarune
-`locfin` - **loc**ație **fin**ală
-`mesnuex` - **mes**ajul **nu** **ex**istă
-`jocfol` - **joc** **fol**der
+`foldel` - **fol**der **del**tarune<br>
+`locfin` - **loc**ație **fin**ală<br>
+`mesnuex` - **mes**ajul **nu** **ex**istă<br>
+`jocfol` - **joc** **fol**der<br>
