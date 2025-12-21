@@ -7,3 +7,5 @@ Aplicație care modifică fișierele jocului DELTARUNE pentru a putea instala ș
 `locfin` - **loc**ație **fin**ală<br>
 `mesnuex` - **mes**ajul **nu** **ex**istă<br>
 `jocfol` - **joc** **fol**der<br>
+`imaginepgr` - imagine **p**ro**gr**am<br>
+`imgpgr` - înseamnă același lucru ca variabila de mai sus
