@@ -1,5 +1,5 @@
 # Patch-DELTARUNE-romana
-Aplicație care modifică fișierele jocului DELTARUNE pentru a putea instala și juca modul mai ușor și mai rapid. Este făcut în limbajul de programare Nim cu biblioteca `wNim`
+Aplicație care modifică fișierele jocului DELTARUNE pentru a putea instala și juca modul mai ușor și mai rapid. Este făcut în limbajul de programare Nim cu biblioteca `wNim`.<br>
 Când lansezi aplicația, pe ecran va apărea un terminal. Acel terminal este folosit în cazul în care sunt erori.
 
 
